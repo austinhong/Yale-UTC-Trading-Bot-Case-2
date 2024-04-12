@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 import os
 
 
-data = pd.read_csv('/Users/austinhong/downloads/Case 2 Data 2024.csv', index_col = 0)
+data = pd.read_csv('Case 2 Data 2024.csv', index_col = 0)
 
 '''
 We recommend that you change your train and test split
